@@ -1,0 +1,11 @@
+{
+    // Name this configuration
+    "name": "Config Copilot VSCode",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot"
+            ]
+        }
+    }
+}
